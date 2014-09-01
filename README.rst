@@ -6,6 +6,8 @@ Introduction
 
 Various `IPython <http://ipython.org/>`_ companion notebooks for `Colour <https://github.com/colour-science/colour>`_
 
+They are viewable online using `IPython Nbviewer <http://nbviewer.ipython.org/github/colour-science/colour-ipython/blob/master/notebooks/colour.ipynb>`_.
+
 About
 -----
 
