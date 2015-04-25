@@ -6,7 +6,7 @@ IPython - Notebooks
 
 -   **Thomas Mansencal**, *Visual Effects Artist*
 
-    Project coordination, writting.
+    Project coordination, writing.
     
 About
 -----
