@@ -1,7 +1,7 @@
 Contributors
 ============
 
-IPython - Notebooks
+Jupyter - Notebooks
 -------------------
 
 -   **Thomas Mansencal**, *Visual Effects Artist @ Weta Digital*
@@ -11,7 +11,7 @@ IPython - Notebooks
 About
 -----
 
-| **Colour - IPython** by Colour Developers
+| **Colour - Notebooks** by Colour Developers
 | Copyright © 2013-2016 – Colour Developers – `colour-science@googlegroups.com <colour-science@googlegroups.com>`_
 | This software is released under terms of New BSD License: http://opensource.org/licenses/BSD-3-Clause
-| `http://github.com/colour-science/colour-ipython <http://github.com/colour-science/colour-ipython>`_
+| `http://github.com/colour-science/colour-notebooks <http://github.com/colour-science/colour-notebooks>`_
