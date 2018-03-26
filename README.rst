@@ -1,6 +1,16 @@
 Colour - Notebooks
 ==================
 
+.. start-badges
+
+|binder|
+
+.. |binder| image:: https://img.shields.io/badge/launch-binder-ff69b4.svg?style=flat-square
+    :target: https://mybinder.org/v2/gh/colour-science/colour-notebooks/master?filepath=notebooks%2Fcolour.ipynb
+    :alt: Binder
+
+.. end-badges
+
 Introduction
 ------------
 
