@@ -14,7 +14,7 @@ Colour - Notebooks
 Introduction
 ------------
 
-Various `Jupyter <http://jupyter.org/>`__ companion notebooks for `Colour <https://github.com/colour-science/colour>`__
+Various `Jupyter <http://jupyter.org/>`__ companion notebooks for `Colour <https://github.com/colour-science/colour>`__.
 
 They are interactive within `Binder <https://mybinder.org/v2/gh/colour-science/colour-notebooks/master?filepath=notebooks%2Fcolour.ipynb>`__
 or viewable using `Jupyter Nbviewer <http://nbviewer.jupyter.org/github/colour-science/colour-notebooks/blob/master/notebooks/colour.ipynb>`__.
