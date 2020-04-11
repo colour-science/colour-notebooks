@@ -1,3 +1,9 @@
+ARCHIVED
+========
+
+This repository is archived for the time being but will be restored in the
+future when time permits.
+
 Colour - Notebooks
 ==================
 
